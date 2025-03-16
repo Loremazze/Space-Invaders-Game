@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<Configuration>
+    <databaseIp>localhost</databaseIp>
+    <databasePort>3306</databasePort>
+    <databaseUser>root</databaseUser>
+	<databasePsw></databasePsw>
+    <classificaMaxLines>10</classificaMaxLines>
+	<totalAliens>24</totalAliens>
+	<totalLives>3</totalLives>
+</Configuration>

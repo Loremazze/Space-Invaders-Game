@@ -1,0 +1,136 @@
+<GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:40:14.313 UTC</data>
+  <etichetta>FinePartita</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:14.135 UTC</data>
+  <etichetta>AvvioApplicazione</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:18.606 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:18.758 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:18.906 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.45 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.185 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.309 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.468 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.696 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:19.855 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:20.221 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:20.392 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:20.569 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:20.745 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:20.917 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:21.87 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:21.237 UTC</data>
+  <etichetta>PressioneTastoSinistro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:41:23.703 UTC</data>
+  <etichetta>FinePartita</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:44:11.925 UTC</data>
+  <etichetta>AvvioApplicazione</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:44:28.582 UTC</data>
+  <etichetta>AvvioApplicazione</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:44:55.94 UTC</data>
+  <etichetta>FinePartita</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:45:19.783 UTC</data>
+  <etichetta>AvvioApplicazione</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:45:25.317 UTC</data>
+  <etichetta>PressioneTastoDestro</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:45:26.487 UTC</data>
+  <etichetta>FinePartita</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:46:08.239 UTC</data>
+  <etichetta>AvvioApplicazione</etichetta>
+</GameLog><GameLog>
+  <nomeApplicazione>SpaceInvaders</nomeApplicazione>
+  <ipServer>localhost</ipServer>
+  <data>2022-06-08 15:46:14.179 UTC</data>
+  <etichetta>FinePartita</etichetta>
+</GameLog>
